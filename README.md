@@ -5,9 +5,9 @@
 - 📫 How to reach me -> davidlr.tech@gmail.com
 
 **Languajes:**
-  Backend -> Java | Node
-  FrontEnd -> Angular | React
-  Databases -> DB2 | MongoDB | MySQL
+  - Backend -> Java | Node
+  - FrontEnd -> Angular | React
+  - Databases -> DB2 | MongoDB | MySQL
 <!---
 DavidLucenaTech/DavidLucenaTech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
