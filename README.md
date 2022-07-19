@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on projects with Java or Javascript (Angular, REACT or Node)
 - 📫 How to reach me -> davidlr.tech@gmail.com
 
-Languajes:
+**Languajes:**
   Backend -> Java | Node
   FrontEnd -> Angular | React
   Databases -> DB2 | MongoDB | MySQL
