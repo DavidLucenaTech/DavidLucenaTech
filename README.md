@@ -5,11 +5,7 @@
 - 📫 How to reach me -> davidlr.tech@gmail.com
 
 **Technologies:**
-  - Backend -> Java | Node
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  - Backend -> Java | Node<img width="12" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  /> <img width="12" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   - FrontEnd -> Angular | React
   - Databases -> DB2 | MongoDB | MySQL
   - Version Control -> GIT | Jira | Confluence
