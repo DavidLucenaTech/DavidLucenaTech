@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DavidLucenaTech and I'm fullstack developer with Java and Angular.
 - 👀 I’m interested in software development.
-- 🌱 I’m currently learning Node.js and React.js
-- 💞️ I’m looking to collaborate on projects with Java or Javascript (Angular, REACT or Node)
+- 🌱 I’m currently learning Kotlin
+- 💞️ I’m looking to collaborate on projects with Java or Javascript
 - 📫 How to reach me -> davidlr.tech@gmail.com
 
 **Technologies:**
