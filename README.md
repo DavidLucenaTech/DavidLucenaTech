@@ -5,8 +5,11 @@
 - 📫 How to reach me -> davidlr.tech@gmail.com
 
 **Technologies:**
-  - Backend -> Java | Node  ![image](https://github.com/DavidLucenaTech/DavidLucenaTech/assets/74917680/a627a8d7-62cb-461e-b760-bd8c7b4ac5a2)
-
+  - Backend -> Java | Node
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   - FrontEnd -> Angular | React
   - Databases -> DB2 | MongoDB | MySQL
   - Version Control -> GIT | Jira | Confluence
